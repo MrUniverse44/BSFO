@@ -1,0 +1,4 @@
+name: BlockStaffForOthers
+version: ${project.version}
+main: dev.mruniverse.bsfo.BlockStaffForOthers
+api-version: 1.16
